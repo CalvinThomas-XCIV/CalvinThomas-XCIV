@@ -1,4 +1,4 @@
-<h1>Hi, I'm Calvin! <br/><a href="https://github.com/calvinthomas-xciv"/a> Studious <a href="https://www.linkedin.com/in/calvin-thomas-032141183/">Cybersecurity Professional</a>
+<h1>Hi, I'm Calvin! <br/><a href="https://github.com/calvinthomas-xciv"/a> Devoted <a href="https://www.linkedin.com/in/calvin-thomas-032141183/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Projects:</h2>
 
